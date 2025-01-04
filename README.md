@@ -43,4 +43,4 @@ This repository contains my notes and code from [The Data Engineering Academy](h
 - 4.10 Dockerized ETL with AWS TDengine and Grafana
 
 ## 5. Associated Data Engineer Certification
-![cert](https://github.com/ndomah/Data-Engineering-Bootcamp/blob/main/5.%20Associate%20Data%20Engineer%20Certificate/certificate-of-completion-for-data-engineering-certification.pdf)
+![cert](https://github.com/ndomah/Data-Engineering-Bootcamp/blob/main/5.%20Associate%20Data%20Engineer%20Certificate/certificate-of-completion-for-data-engineering-certification.jpg)
