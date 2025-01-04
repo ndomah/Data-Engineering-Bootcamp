@@ -1,7 +1,7 @@
 # Data Engineering Bootcamp
 This repository contains my notes and code from [The Data Engineering Academy](https://learndataengineering.com/p/academy).
 
-## 1. The Basics
+## [1. The Basics](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/1.%20The%20Basics)
 - 1.1 Introduction to Data Engineering
 - 1.2 Computer Science Fundamentals
 - 1.3 Introduction to Python
