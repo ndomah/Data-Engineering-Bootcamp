@@ -11,7 +11,7 @@ This repository contains my notes and code from [The Data Engineering Academy](h
 - 1.7 Successful Job Application
 - 1.8 SQL for Data Engineers
 
-## 2. Platform & Pipeline Design Fundamentals
+## [2. Platform & Pipeline Design Fundamentals](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/2.%20Platform%20%26%20Pipeline%20Design%20Fundamentals)
 - 2.1 Platform & Pipeline Design
 - 2.2 Platform & Pipeline Security
 - 2.3 Choosing Data Stores
@@ -19,7 +19,7 @@ This repository contains my notes and code from [The Data Engineering Academy](h
 - 2.5 Data Modeling 2 Relational Data Modeling
 - 2.6 Data Modeling 3 Dimensional Data Modeling
 
-## 3. Fundamental Tools
+## [3. Fundamental Tools](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools)
 - 3.1 API Design with FastAPI
 - 3.2 Apache Airflow Workflow Orchestration
 - 3.3 Apache Spark Fundamentals
@@ -30,7 +30,7 @@ This repository contains my notes and code from [The Data Engineering Academy](h
 - 3.8 Snowflake for Data Engineers
 - 3.9 dbt for Data Engineers
 
-## 4. Hands-On Projects
+## [4. Hands-On Projects](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects)
 - 4.1 Streaming Kafka, Spark, MongoDB, FastAPI, and Streamlit
 - 4.2 Data Engineering on AWS
 - 4.3 Data Engineering on Azure
@@ -42,5 +42,5 @@ This repository contains my notes and code from [The Data Engineering Academy](h
 - 4.9 Data Engineering on Hadoop
 - 4.10 Dockerized ETL with AWS TDengine and Grafana
 
-## 5. Associate Data Engineer Certification
+## [5. Associate Data Engineer Certification](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/5.%20Associate%20Data%20Engineer%20Certificate)
 ![cert](https://github.com/ndomah/Data-Engineering-Bootcamp/blob/main/5.%20Associate%20Data%20Engineer%20Certificate/certificate-of-completion-for-data-engineering-certification.jpg)
