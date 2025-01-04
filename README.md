@@ -30,7 +30,7 @@ This repository contains my notes and code from [The Data Engineering Academy](h
 - 3.8 Snowflake for Data Engineers
 - 3.9 dbt for Data Engineers
 
-## 4. Hands-on Projects
+## 4. Hands-On Projects
 - 4.1 Streaming Kafka, Spark, MongoDB, FastAPI, and Streamlit
 - 4.2 Data Engineering on AWS
 - 4.3 Data Engineering on Azure
