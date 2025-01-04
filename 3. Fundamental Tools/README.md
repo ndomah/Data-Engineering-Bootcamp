@@ -1,1 +1,10 @@
-
+# [3. Fundamental Tools](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools)
+- [3.1 API Design with FastAPI](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.1%20API%20Design%20with%20FastAPI)
+- [3.2 Apache Airflow Workflow Orchestration](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.2%20Apache%20Airflow%20Workflow%20Orchestration)
+- [3.3 Apache Spark Fundamentals](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.3%20Apache%20Spark%20Fundamentals)
+- [3.4 Data Engineering on Databricks](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.4%20Data%20Engineering%20on%20Databricks)
+- [3.5 Apache Kafka](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.5%20Apache%20Kafka)
+- [3.6 MongoDB Fundamentals](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.6%20MongoDB%20Fundamentals)
+- [3.7 Log analysis with Elasticsearch](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.7%20Log%20analysis%20with%20Elasticsearch)
+- [3.8 Snowflake for Data Engineers](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.8%20Snowflake%20for%20Data%20Engineers)
+- [3.9 dbt for Data Engineers](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.9%20dbt%20for%20Data%20Engineers)
