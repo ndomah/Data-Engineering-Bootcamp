@@ -20,15 +20,15 @@ This repository contains my notes and code from [The Data Engineering Academy](h
 - [2.6 Data Modeling 3 Dimensional Data Modeling](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/2.%20Platform%20%26%20Pipeline%20Design%20Fundamentals/2.6%20Data%20Modeling%203%20Dimensional%20Data%20Modeling)
 
 ## [3. Fundamental Tools](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools)
-- 3.1 API Design with FastAPI
-- 3.2 Apache Airflow Workflow Orchestration
-- 3.3 Apache Spark Fundamentals
-- 3.4 Data Engineering on Databricks
-- 3.5 Apache Kafka
-- 3.6 MongoDB Fundamentals
-- 3.7 Log analysis with Elasticsearch
-- 3.8 Snowflake for Data Engineers
-- 3.9 dbt for Data Engineers
+- [3.1 API Design with FastAPI](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.1%20API%20Design%20with%20FastAPI)
+- [3.2 Apache Airflow Workflow Orchestration](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.2%20Apache%20Airflow%20Workflow%20Orchestration)
+- [3.3 Apache Spark Fundamentals](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.3%20Apache%20Spark%20Fundamentals)
+- [3.4 Data Engineering on Databricks](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.4%20Data%20Engineering%20on%20Databricks)
+- [3.5 Apache Kafka](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.5%20Apache%20Kafka)
+- [3.6 MongoDB Fundamentals](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.6%20MongoDB%20Fundamentals)
+- [3.7 Log analysis with Elasticsearch](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.7%20Log%20analysis%20with%20Elasticsearch)
+- [3.8 Snowflake for Data Engineers](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.8%20Snowflake%20for%20Data%20Engineers)
+- [3.9 dbt for Data Engineers](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/3.%20Fundamental%20Tools/3.9%20dbt%20for%20Data%20Engineers)
 
 ## [4. Hands-On Projects](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects)
 - 4.1 Streaming Kafka, Spark, MongoDB, FastAPI, and Streamlit
