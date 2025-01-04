@@ -1,1 +1,11 @@
-
+# [4. Hands-On Projects](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects)
+- [4.1 Streaming Kafka, Spark, MongoDB, FastAPI, and Streamlit](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects/4.1%20Streaming%20Kafka%2C%20Spark%2C%20MongoDB%2C%20FastAPI%2C%20and%20Streamlit)
+- [4.2 Data Engineering on AWS](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects/4.2%20Data%20Engineering%20on%20AWS)
+- [4.3 Data Engineering on Azure](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects/4.3%20Data%20Engineering%20on%20Azure)
+- [4.4 Data Engineering on GCP](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects/4.4%20Data%20Engineering%20on%20GCP)
+- [4.5 Modern Data Warehouses & Data Lakes](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects/4.5%20Modern%20Data%20Warehouses%20%26%20Data%20Lakes)
+- [4.6 Machine Learning & Containerization on AWS](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects/4.6%20Machine%20Learning%20%26%20Containerization%20on%20AWS)
+- [4.7 Storing & Visualizing Time Series Data](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects/4.7%20Storing%20%26%20Visualizing%20Time%20Series%20Data)
+- [4.8 Contact tracing with Elasticsearch](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects/4.8%20Contact%20tracing%20with%20Elasticsearch)
+- [4.9 Data Engineering on Hadoop](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects/4.9%20Data%20Engineering%20on%20Hadoop)
+- [4.10 Dockerized ETL with AWS TDengine and Grafana](https://github.com/ndomah/Data-Engineering-Bootcamp/tree/main/4.%20Hands-On%20Projects/4.10%20Dockerized%20ETL%20with%20AWS%20TDengine%20and%20Grafana)
